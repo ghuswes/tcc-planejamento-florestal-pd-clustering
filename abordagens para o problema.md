@@ -29,7 +29,7 @@ subconjunto de um conjunto, representado por uma máscara de bits.
 
 ---
 
-##### Você poderia aplicar clustering no problema da mochila para pré-processar e simplificar o conjunto de itens, transformando um problema grande em um menor e mais gerenciável. A ideia principal é agrupar itens similares e tratá-los como um único grupo ou representante.
+##### Aplicar clustering no problema da mochila para pré-processar e simplificar o conjunto de itens, transformando um problema grande em um menor e mais gerenciável. A ideia principal é agrupar itens similares e tratá-los como um único grupo ou representante.
 
 Possíveis estratégias:
 
@@ -43,7 +43,7 @@ O **K-Means** é o método de particionamento mais conhecido, mas existem divers
 
 O **"KMM"** que você citou pode ser uma referência a algumas variações, como o Kernel K-Means, que mapeia os dados para uma dimensão superior para encontrar clusters não-esféricos, ou talvez ao K-Medoids, que é uma variação do K-Means.
 
-##### Aqui estão as principais formas (categorias) de aplicar clustering, com exemplos de algoritmos para cada uma:
+##### Principais formas (categorias) de aplicar clustering, com exemplos de algoritmos para cada uma:
 
 * **1. Métodos de Particionamento**
 Dividem o conjunto de dados em um número k de clusters pré-definido, onde cada dado pertence a um único cluster.
@@ -98,4 +98,5 @@ Dividem o conjunto de dados em um número k de clusters pré-definido, onde cada
     * **Análise Espectral (Spectral Clustering):** Para capturar relações mais complexas entre as soluções.
 
     * **Mapas Auto-Organizáveis (SOM):** Para visualizar a topologia do espaço de soluções em 2D.
+
 
